@@ -1,0 +1,17 @@
+{
+  "repository_name": "dq-whistler",
+  "description": "A data quality framework",
+  "directorate": "Technology",
+  "namespace": "dq-whistler",
+  "security_owner": "subramanyam.chemmarthi@tokopedia.com",
+  "app": [
+    {
+      "name": "dq-whistler",
+      "description": "A data quality framework",
+      "owner": "naresh.kumar@tokopedia.com",
+      "slack_channel": "data-engineer",
+      "db": []
+    }
+  ],
+  "last_update":"23/10/2021"
+}

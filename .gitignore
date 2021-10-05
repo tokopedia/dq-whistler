@@ -8,8 +8,7 @@ __pycache__/
 
 # dq_whistler exlusions
 sdk/python/docs/build
-sdk/python/dq_whistler/data_sources
-sdk/python/local_scripts
+sdk/python/venv_sample
 
 # Distribution / packaging
 .Python
